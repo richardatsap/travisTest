@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>travis.yml</name>
+			<type>1</type>
+			<location>C:/Users/D035816/git-repos/travisTest/.travis.yml</location>
+		</link>
+	</linkedResources>
 </projectDescription>
